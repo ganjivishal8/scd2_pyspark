@@ -1,0 +1,9 @@
+id,first_name,last_name,company,role,sk_customer_id,effective_date,expiration_date,current_flag
+1,Crawford,Hurich,Fadeo,Worker,1,2023-11-27 13:02:20,9999-12-31 23:59:59,true
+2,Karlik,Barthot,Kwideo,Construction Manager,2,2023-11-27 13:02:20,9999-12-31 23:59:59,true
+4,Elden,Berger,Jazzy,Construction Foreman,3,2023-11-27 13:02:20,9999-12-31 23:59:59,true
+6,Ferrell,Hungerford,Feedbug,Developer,4,2023-11-27 13:02:20,9999-12-31 23:59:59,true
+7,Evonne,Benoit,Blogtag,Construction Manager,5,2023-11-27 13:02:20,9999-12-31 23:59:59,true
+8,Nixie,Goldring,Dabshots,DataScientist,6,2023-11-27 13:02:20,9999-12-31 23:59:59,true
+9,Christophe,Churchill,Skynoodle,Architect,7,2023-11-27 13:02:20,9999-12-31 23:59:59,true
+10,Booth,Leathwood,Yambee,Construction Worker,8,2023-11-27 13:02:20,9999-12-31 23:59:59,true
